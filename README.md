@@ -1,2 +1,2 @@
 # RECIPE-HUB
-React Native Project Course
+React Native Course with Expo 
